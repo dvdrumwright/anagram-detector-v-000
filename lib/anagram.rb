@@ -6,7 +6,8 @@ def initialize(name)
   @name = name  
 end 
 
-def match
+def self.match
+  
  
   
 end 
