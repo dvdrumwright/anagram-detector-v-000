@@ -7,8 +7,7 @@ def initialize(name)
 end 
 
 def match
-  match_array = []
-  match_array = ["mike","cat","dog"]
+ 
   
 end 
 
