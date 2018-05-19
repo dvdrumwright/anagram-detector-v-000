@@ -1,1 +1,1 @@
-# Your code goes here!
+class # Your code goes here!
