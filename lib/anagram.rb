@@ -1,19 +1,10 @@
 class Anagram
  
-attr_accessor :match 
+attr_accessor :name
 
-def initialize(match)
-  @match = match 
+def initialize(name)
+  @name = name  
 end 
-
-
-
-
-
-
-
-
-
 
 
 
