@@ -6,9 +6,8 @@ def initialize(name)
   @name = name  
 end 
 
-def self.match
-  
- 
+def self.match(word)
+  letters = word.detect 
   
 end 
 
