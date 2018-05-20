@@ -10,11 +10,8 @@ class Anagram
  
  def match(look_for_anagram)
  letters = []
- self.word_check == look_for_anagram do |word| 
-   word.split("") 
-   
-   
- 
+ self.look_for_anagram do |a| 
+   a.
  
  
 
