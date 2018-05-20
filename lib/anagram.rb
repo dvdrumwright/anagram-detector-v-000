@@ -10,7 +10,9 @@ def self.match(word)
   if letters = word.detect?
      letters 
    else match 
-  
-end 
+  end 
+end
+
+
 
 end 
