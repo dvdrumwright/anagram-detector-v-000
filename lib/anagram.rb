@@ -9,8 +9,7 @@ class Anagram
  
  
  def match(look_for_anagram)
-
-
+look_for_anagram.sort
 
 
 
