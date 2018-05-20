@@ -8,8 +8,8 @@ class Anagram
  end 
  
  
- def match(look_for_anagram)
-
+ def match(look_for_anagram) 
+   letters = []
 
 
 
