@@ -14,6 +14,9 @@ class Anagram
  look_for_anagram.find_all |do| 
  if word.split("").sort == self.word_check.split("").sort 
         word 
+      end 
+    end 
+  end 
    
  
  
