@@ -8,7 +8,7 @@ class Anagram
  end 
  
  
- def self.match(look_for_anagram)
+ def match(look_for_anagram)
  letters = []
  
    
