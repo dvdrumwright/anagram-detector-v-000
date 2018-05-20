@@ -12,10 +12,7 @@ class Anagram
    letters = []
   self.word_check.detect do |word|
     word("ab")
-    
-
-
-
+  end 
 end 
 
 
