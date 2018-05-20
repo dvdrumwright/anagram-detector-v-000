@@ -10,6 +10,7 @@ class Anagram
  
  def match(look_for_anagram)
 letters = []
+puts look_for_anagram
 look_for_anagram do |word| word.split("").sort 
 == self.word_check.split("").sort 
 word
