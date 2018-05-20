@@ -6,12 +6,11 @@ def initialize(name)
   @name = name  
 end 
 
-def match(word)
-  if letters = word.detect
-     letters 
-   else match 
+def match 
+    words = []
+    words.detect 
+    words 
   end 
-end
 
 
 
