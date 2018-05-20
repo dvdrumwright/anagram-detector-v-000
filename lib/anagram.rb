@@ -9,6 +9,8 @@ class Anagram
  
  
  def match(look_for_anagram)
+ if self.word_check 
+   
    
  
  
