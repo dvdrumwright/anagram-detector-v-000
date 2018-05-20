@@ -9,7 +9,7 @@ class Anagram
  
  
  def match(look_for_anagram)
- letters = []
+
 
  look_for_anagram.find_all do |word| 
  if word.split("").sort == self.word_check.split("").sort 
