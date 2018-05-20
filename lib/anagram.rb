@@ -10,12 +10,8 @@ class Anagram
  
  def match(look_for_anagram)
 letters = []
-puts self.word_check
-look_for_anagram.detect do |word| word.split("").sort == self.word_check.split("").sort
-word 
-end 
-end
-end 
+look_for_anagram.detect? do |word| 
+  word.split("").sort 
 
 
   
