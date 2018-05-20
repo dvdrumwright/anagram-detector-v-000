@@ -11,9 +11,11 @@ class Anagram
  def match(look_for_anagram)
  letters = []
  puts self.word_check 
- look_for_anagram.find_all |do| 
+ look_for_anagram.find_all do |word| 
  if word.split("").sort == self.word_check.split("").sort 
         word 
+      end 
+      end 
       end 
    
    
