@@ -8,11 +8,13 @@ class Anagram
  end 
  
  
- def match(look_for_anagram) 
-   letters = []
-  self.word_check.detect do |word|
-    word == "ab"
-  end 
+ def match(look_for_anagram)
+letters = []
+puts self.word_check
+look_for_anagram.detect do |word| word.split("").sort == self.word_check.split("").sort
+word 
+end 
+end
 end 
 
 
