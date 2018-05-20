@@ -15,8 +15,7 @@ self.word_check.split("").sort
 word
 end 
 end 
-
-
+end 
 
 
 
