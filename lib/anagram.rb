@@ -11,5 +11,6 @@ def self.match(letter)
   if l = letters.detect
     letter.match 
     letter 
+  end 
   
 end 
