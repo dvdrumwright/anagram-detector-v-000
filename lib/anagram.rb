@@ -11,7 +11,7 @@ class Anagram
  def match(look_for_anagram)
  letters = []
  puts self.word_check 
- 
+ look_for_anagram
    
  
  
