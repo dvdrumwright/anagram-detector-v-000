@@ -13,9 +13,10 @@ look_for_anagram.find_all do |word| if
 word.split("").sort == 
 self.word_check.split("").sort
 word
+
 end 
-end 
-end 
+  end 
+     end 
 
 
 
