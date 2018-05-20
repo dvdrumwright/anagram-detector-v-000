@@ -15,13 +15,11 @@ class Anagram
  if word.split("").sort == self.word_check.split("").sort 
         word 
       end 
-    end 
-  end 
-end 
+   
    
  
  
- end 
+ 
 
   
 
