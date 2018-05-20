@@ -9,7 +9,8 @@ class Anagram
  
  
  def match(look_for_anagram)
-look_for_anagram.sort
+look_for_anagram.find_all do |word| 
+  word.split
 
 
 
