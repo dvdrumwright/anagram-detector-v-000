@@ -10,7 +10,7 @@ class Anagram
  
  def match(look_for_anagram)
  letters = []
- letters.match
+ l = look_for_anagram
    
  
  
