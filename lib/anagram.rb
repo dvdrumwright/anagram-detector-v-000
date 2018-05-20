@@ -4,7 +4,7 @@ class Anagram
  attr_accessor :word_check 
  
  
- def match
+ def match(look_for_anagram)
  end 
 
   
