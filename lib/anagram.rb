@@ -7,7 +7,9 @@ def initialize(name)
 end 
 
 def self.match(word)
-  letters = word.detect?
+  if letters = word.detect?
+     letters 
+   else match 
   
 end 
 
