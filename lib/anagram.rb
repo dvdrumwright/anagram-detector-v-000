@@ -12,6 +12,7 @@ class Anagram
 letters = []
 look_for_anagram do |word| word.split("").sort 
 == self.word_check.split("").sort 
+word
       end 
       end 
       end 
