@@ -8,8 +8,7 @@ end
 
 def match 
     words = []
-    words.detect 
-    words 
+    words.detect.match
   end 
 
 
