@@ -9,7 +9,7 @@ class Anagram
  
  
  def match(look_for_anagram)
- puts ["look for Pablo Escobar"]
+ puts "look for Pablo Escobar" 
    
  
  
