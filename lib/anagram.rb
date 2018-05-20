@@ -4,7 +4,8 @@ class Anagram
  attr_accessor :word_check 
  
  
- def 
+ def Anagram 
+ end 
 
   
 
