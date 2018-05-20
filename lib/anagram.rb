@@ -9,7 +9,7 @@ class Anagram
  
  
  def match(look_for_anagram)
- letters = ["ab"]
+ letters = []
  
    
  
