@@ -1,16 +1,20 @@
 class Anagram
- attr_accessor :name
-  
-  @@word = []
+ 
+ 
+ attr_accessor :word_check 
+ 
+ 
+ def 
 
-def initialize(name)
-  @name = name  
-end 
-
-def self.match(letter)
-  if l = letters.detect
-    letter.match 
-    letter 
-  end 
   
+
+
+
+
+
+
+
+
+
+
 end 
